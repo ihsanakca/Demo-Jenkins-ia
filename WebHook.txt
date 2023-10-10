@@ -1,0 +1,1 @@
+Bu repoya herhangi bir push ya da commit yapıldığında otomatikman jenkinsteki bağlı olduğu job tetiklenecektir.
